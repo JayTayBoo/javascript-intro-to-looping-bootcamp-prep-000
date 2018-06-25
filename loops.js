@@ -13,3 +13,6 @@ function whileLoop(number){
     console.log(--n)}
   return "done"
 }
+function doWhileLoop(array){
+  
+}
